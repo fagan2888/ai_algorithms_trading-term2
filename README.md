@@ -1,9 +1,9 @@
 # Udacity Term 2: AI Algorithms in Trading
-___
 
+
+![ToiletHill.io Logo](heathdrobertson.github.io/images/logo/ToiletHill.png)
 Heath Robertson
-[mailto](mailto:CodeHappens@ToiletHill.io?subject=[GitHub]%20Repo)
-
+- [CodeHappens@ToiletHill.io](mailto:CodeHappens@ToiletHill.io?subject=[GitHub]%20Repo)
 - [Telegram](http://t.me/heathdrobertson)
 - [Twitter](https://twitter.com/heathdrobertson)
 - [GitHub](https://github.com/heathdrobertson)
