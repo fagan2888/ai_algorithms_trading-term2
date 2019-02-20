@@ -22,8 +22,9 @@
 - [ ] Project 8 - Backtesting
 
 
+___
 ### Heath Robertson
-[CodeHappens@ToiletHill.io](mailto:CodeHappens@ToiletHill.io?subject=[GitHub]%20Repo) | [Telegram](http://t.me/heathdrobertson) | [Twitter](https://twitter.com/heathdrobertson) | [GitHub](https://github.com/heathdrobertson)
+[CodeHappens@ToiletHill.io](mailto:CodeHappens@ToiletHill.io?subject=[GitHub]%20Repo) | [Telegram](http://t.me/heathdrobertson) | [Twitter](https://twitter.com/heathdrobertson) | [GitHub](https://github.com/heathdrobertson) | [DockerHub](https://hub.docker.com/u/heathdrobertson)
 
 
 ![ToiletHill.io Logo](https://heathdrobertson.github.io/images/logo/ToiletHill.png)
