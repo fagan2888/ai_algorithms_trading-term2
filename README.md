@@ -3,9 +3,9 @@
 
 
 - [x] Lesson 1 - Welcome to Term 2
-- [ ] Lesson 2 - Intro to Natural Language Processing
-- [ ] Lesson 3 Text Processing
-- [ ] Lesson 4 - Feature Extraction
+- [x] Lesson 2 - Intro to Natural Language Processing
+- [x] Lesson 3 Text Processing
+- [-] Lesson 4 - Feature Extraction
 - [ ] Lesson 5 - Financial Statements
 - [ ] Lesson 6 - Basic NLP Analysis
 - [ ] Project 5: NLP on Financial Statements
