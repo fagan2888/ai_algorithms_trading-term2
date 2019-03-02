@@ -8,7 +8,7 @@
 - [x] Lesson 4 - Feature Extraction
 - [x] Lesson 5 - Financial Statements
 - [x] Lesson 6 - Basic NLP Analysis
-- [o] Project 5: NLP on Financial Statements
+- [x] Project 5: NLP on Financial Statements
 - [ ] Lesson 8 - Introduction to Neural Networks
 - [ ] Lesson 9 - Training Neural Networks
 - [ ] Lesson 10 - Deep Learning with PyTorch
