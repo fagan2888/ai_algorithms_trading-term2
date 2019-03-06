@@ -106,3 +106,6 @@ venv.bak/
 
 **/nltk_data/
 custom.js
+
+!data/data.ipynb
+**/data/**
