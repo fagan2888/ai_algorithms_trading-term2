@@ -9,7 +9,7 @@
 - [x] Lesson 5 - Financial Statements
 - [x] Lesson 6 - Basic NLP Analysis
 - [x] Project 5: NLP on Financial Statements
-- [ ] Lesson 8 - Introduction to Neural Networks
+- [x] Lesson 8 - Introduction to Neural Networks
 - [ ] Lesson 9 - Training Neural Networks
 - [ ] Lesson 10 - Deep Learning with PyTorch
 - [ ] Lesson 11 - Recurrent Neural Networks
