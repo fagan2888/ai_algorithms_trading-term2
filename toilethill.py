@@ -1,13 +1,16 @@
 import os
+import json
+import pandas as pd
+
 from pathlib import Path
 from IPython.display import display, Markdown, HTML
 
 
 def auto_notebook_links(p, t):
     """
-    A function to auto-generate links to Jupyter Notebooks in a directory.  
-    Links are formatted to accommodate Udacity lesson, and lesson solution 
-    notebooks. 
+    A function to auto-generate links to Jupyter Notebooks in a directory.
+    Links are formatted to accommodate Udacity lesson, and lesson solution
+    notebooks.
 
     Parameters
     ----------
@@ -43,6 +46,7 @@ def auto_notebook_links(p, t):
         if solution_file in all_notebooks:
             li = f'<li><a href="{file_path}" target="_blank">{title}</a> : \
             <a href="{path / solution_file}" target="_blank">Solution</a></li>'
+
             ul_li += li
         else:
             li = f'<li><a href="{file_path}" target="_blank">{title}</a></li>'
