@@ -2,6 +2,7 @@
 **Udacity Term 2**
 
 [Term 2 Notes](./term_2_notes.ipynb)
+[Data](./DATA.ipynb)
 
 - [x] Lesson 1 - Welcome to Term 2
 - [x] Lesson 2 - Intro to Natural Language Processing
