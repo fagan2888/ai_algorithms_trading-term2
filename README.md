@@ -1,6 +1,7 @@
 # AI Algorithms in Trading
 **Udacity Term 2**
 
+[Term 2 Notes](/notebooks/term_2_notes.ipynb)
 
 - [x] Lesson 1 - Welcome to Term 2
 - [x] Lesson 2 - Intro to Natural Language Processing
@@ -10,8 +11,8 @@
 - [x] Lesson 6 - Basic NLP Analysis
 - [x] Project 5: NLP on Financial Statements
 - [x] Lesson 8 - Introduction to Neural Networks
-- [ ] Lesson 9 - Training Neural Networks
-- [ ] Lesson 10 - Deep Learning with PyTorch
+- [x] Lesson 9 - Training Neural Networks
+- [x] Lesson 10 - Deep Learning with PyTorch
 - [ ] Lesson 11 - Recurrent Neural Networks
 - [ ] Lesson 12 - Embeddings & Word2Vec
 - [ ] Lesson 13 - Sentiment Prediction RNN
