@@ -14,9 +14,9 @@
 - [x] Lesson 8 - Introduction to Neural Networks
 - [x] Lesson 9 - Training Neural Networks
 - [x] Lesson 10 - Deep Learning with PyTorch
-- [ ] Lesson 11 - Recurrent Neural Networks
-- [ ] Lesson 12 - Embeddings & Word2Vec
-- [ ] Lesson 13 - Sentiment Prediction RNN
+- [x] Lesson 11 - Recurrent Neural Networks
+- [x] Lesson 12 - Embeddings & Word2Vec
+- [x] Lesson 13 - Sentiment Prediction RNN
 - [ ] Project 6 - Sentiment Analysis with Neural Networks
 - [ ] Project 7 - Combine Signals for Enhanced Alpha
 - [ ] Strengthen Your Online Presence Using LinkedIn
