@@ -17,7 +17,7 @@
 - [x] Lesson 11 - Recurrent Neural Networks
 - [x] Lesson 12 - Embeddings & Word2Vec
 - [x] Lesson 13 - Sentiment Prediction RNN
-- [ ] Project 6 - Sentiment Analysis with Neural Networks
+- [x] Project 6 - Sentiment Analysis with Neural Networks
 - [ ] Project 7 - Combine Signals for Enhanced Alpha
 - [ ] Strengthen Your Online Presence Using LinkedIn
 - [ ] Optimize Your GitHub Profile
