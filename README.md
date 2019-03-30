@@ -18,9 +18,19 @@
 - [x] Lesson 12 - Embeddings & Word2Vec
 - [x] Lesson 13 - Sentiment Prediction RNN
 - [x] Project 6 - Sentiment Analysis with Neural Networks
-- [ ] Project 7 - Combine Signals for Enhanced Alpha
-- [ ] Strengthen Your Online Presence Using LinkedIn
-- [ ] Optimize Your GitHub Profile
+- [x] Lesson 15 - Overview of Machine Learning Techniques
+- [ ] Lesson 16 - Decision Trees
+- [ ] Lesson 17 - Model Testing & Evaluation
+- [ ] Lesson 18 - Random Forests
+- [ ] Lesson 19 - Feature Engineering
+- [ ] Lesson 20 - Overlapping Labels 
+- [ ] Lesson 21 - Feature Importance
+- [ ] Lesson 22 - Combine Signals for Enhanced Alpha
+- [ ] Lesson 23 - Strengthen Your Online Presence Using LinkedIn
+- [ ] Lesson 24 - Optimize Your GitHub Profile
+- [ ] Lesson 25 - Intro to Backtesting
+- [ ] Lesson 26 - Optimization with Transaction Costs
+- [ ] Lesson 27 - Attribution
 - [ ] Project 8 - Backtesting
 
 
