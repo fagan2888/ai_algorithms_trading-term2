@@ -19,7 +19,7 @@
 - [x] Lesson 13 - Sentiment Prediction RNN
 - [x] Project 6 :: Sentiment Analysis with Neural Networks
 - [x] Lesson 15 - Overview of Machine Learning Techniques
-- [ ] Lesson 16 - Decision Trees
+- [x] Lesson 16 - Decision Trees
 - [ ] Lesson 17 - Model Testing & Evaluation
 - [ ] Lesson 18 - Random Forests
 - [ ] Lesson 19 - Feature Engineering
