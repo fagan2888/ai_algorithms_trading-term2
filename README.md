@@ -23,7 +23,7 @@
 - [x] Lesson 17 - Model Testing & Evaluation
 - [x] Lesson 18 - Random Forests
 - [x] Lesson 19 - Feature Engineering
-- [ ] Lesson 20 - Overlapping Labels 
+- [x] Lesson 20 - Overlapping Labels 
 - [ ] Lesson 21 - Feature Importance
 - [ ] Project 7 :: Combine Signals for Enhanced Alpha
 - [ ] Lesson 23 - Strengthen Your Online Presence Using LinkedIn
