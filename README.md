@@ -24,10 +24,10 @@
 - [x] Lesson 18 - Random Forests
 - [x] Lesson 19 - Feature Engineering
 - [x] Lesson 20 - Overlapping Labels 
-- [ ] Lesson 21 - Feature Importance
-- [ ] Project 7 :: Combine Signals for Enhanced Alpha
-- [ ] Lesson 23 - Strengthen Your Online Presence Using LinkedIn
-- [ ] Lesson 24 - Optimize Your GitHub Profile
+- [x] Lesson 21 - Feature Importance
+- [x] Project 7 :: Combine Signals for Enhanced Alpha
+- [x] Lesson 23 - Strengthen Your Online Presence Using LinkedIn
+- [x] Lesson 24 - Optimize Your GitHub Profile
 - [ ] Lesson 25 - Intro to Backtesting
 - [ ] Lesson 26 - Optimization with Transaction Costs
 - [ ] Lesson 27 - Attribution
