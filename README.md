@@ -28,7 +28,7 @@
 - [x] Project 7 :: Combine Signals for Enhanced Alpha
 - [x] Lesson 23 - Strengthen Your Online Presence Using LinkedIn
 - [x] Lesson 24 - Optimize Your GitHub Profile
-- [ ] Lesson 25 - Intro to Backtesting
+- [x] Lesson 25 - Intro to Backtesting
 - [ ] Lesson 26 - Optimization with Transaction Costs
 - [ ] Lesson 27 - Attribution
 - [ ] Project 8 :: Backtesting
