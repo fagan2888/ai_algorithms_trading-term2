@@ -29,9 +29,9 @@
 - [x] Lesson 23 - Strengthen Your Online Presence Using LinkedIn
 - [x] Lesson 24 - Optimize Your GitHub Profile
 - [x] Lesson 25 - Intro to Backtesting
-- [ ] Lesson 26 - Optimization with Transaction Costs
-- [ ] Lesson 27 - Attribution
-- [ ] Project 8 :: Backtesting
+- [x] Lesson 26 - Optimization with Transaction Costs
+- [x] Lesson 27 - Attribution
+- [x] Project 8 :: Backtesting
 
 
 ___
